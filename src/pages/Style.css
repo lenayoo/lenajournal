@@ -8,6 +8,8 @@ ul {
 li {
   list-style: none;
   padding: 0 !important;
+  font-family: monospace;
+  font-size: large;
 }
 
 /* Home */
