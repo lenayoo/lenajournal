@@ -1,3 +1,25 @@
 img {
   width: 300px;
+  margin: 0 auto;
+}
+.card {
+  position: relative;
+}
+
+.card-wrapper {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+}
+
+
+.card-title {
+  font-family: monospace;
+  font-size: 16px;
+  color: #2D9596;
+}
+
+.card-content {
+  font-family: monospace;
+  font-size: 12px;
 }
