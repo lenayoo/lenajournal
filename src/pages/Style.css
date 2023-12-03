@@ -2,6 +2,7 @@
 ul {
   margin: 0;
   padding: 0;
+  margin-bottom: 2rem;
 }
 
 li {
@@ -9,3 +10,7 @@ li {
   padding: 0 !important;
 }
 
+/* Home */
+.card {
+  width: 250px;
+}

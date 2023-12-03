@@ -1,9 +1,8 @@
 import { Link } from "react-router-dom";
-import "./Style.css";
 
 function Nav() {
   return (
-    <div className="nav">
+    <nav>
       <ul className="navbar">
         <li>
           <Link to="/">Home</Link>
@@ -18,7 +17,7 @@ function Nav() {
           <Link to="/contact">contact</Link>
         </li>
       </ul>
-    </div>
+    </nav>
   );
 }
 

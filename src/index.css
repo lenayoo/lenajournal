@@ -23,10 +23,12 @@ a:hover {
 }
 
 body {
-  padding: 0.5rem;
+  margin: 0.5rem;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: lightgoldenrodyellow;
+  color: black;
 }
 
 h1 {
